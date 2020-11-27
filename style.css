@@ -1,0 +1,21 @@
+body {
+    margin:0;
+    user-select: none;
+}
+canvas {
+    display:block;
+}
+#fps {
+    position:fixed;
+    background:black;
+    color:white;
+    top:5px;
+    right:5px;
+}
+#time {
+    position:fixed;
+    background:black;
+    color:white;
+    top:25px;
+    right:5px;
+}
